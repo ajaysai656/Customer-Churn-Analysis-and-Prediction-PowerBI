@@ -36,7 +36,7 @@ To identify high-risk customer segments and understand factors contributing to c
   - Avg Tenure
 
 📷 Screenshot:
-![Demographics](screenshots/01_Demographics.png)
+![Demographics](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Service%20Subscription%20Analysis.png)
 
 ---
 
