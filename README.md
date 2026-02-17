@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes customer churn behavior using Power BI and identifies key drivers influencing customer attrition.  
 The dashboard provides insights into demographics, service usage, billing behavior, and churn prediction factors.
-
+ > Note: Since the dataset is cross-sectional (no time dimension), Card visuals are used for KPI representation instead of time-based KPI visuals.
 ---
 
 ## 🎯 Business Objective
@@ -28,7 +28,7 @@ To identify high-risk customer segments and understand factors contributing to c
 - Senior citizen churn comparison
 - Tenure segmentation
 - Monthly charges vs tenure analysis
-- Key KPIs:
+- Key Key metrics displayed using Card visuals:
   - Total Customers
   - Churned Customers
   - Churn Rate
@@ -36,7 +36,7 @@ To identify high-risk customer segments and understand factors contributing to c
   - Avg Tenure
 
 📷 Screenshot:
-![Demographics](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Service%20Subscription%20Analysis.png)
+![Demographics](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Customer%20Demographic%20Analysis.png)
 
 ---
 
@@ -48,7 +48,7 @@ To identify high-risk customer segments and understand factors contributing to c
 - Interactive filters for gender, senior citizen, contract
 
 📷 Screenshot:
-![Service Subscription](screenshots/02_Service_Subscription.png)
+![Service Subscription](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Service%20Subscription%20Analysis.png)
 
 ---
 
@@ -60,7 +60,7 @@ To identify high-risk customer segments and understand factors contributing to c
 - Tenure distribution by contract
 
 📷 Screenshot:
-![Contract & Billing](screenshots/03_Contract_Billing.png)
+![Contract & Billing](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Contract%20%26%20Billing%20Insights.png)
 
 ---
 
@@ -72,7 +72,7 @@ To identify high-risk customer segments and understand factors contributing to c
 - Multi-factor churn analysis
 
 📷 Screenshot:
-![Churn Prediction](screenshots/04_Churn_Prediction.png)
+![Churn Prediction](https://github.com/ajaysai656/Customer-Churn-Analysis-and-Prediction-PowerBI/blob/main/Churn%20Prediction%20%26%20Key%20Drivers.png)
 
 ---
 
@@ -104,6 +104,4 @@ This analysis helps businesses:
 
 ---
 
-## 📁 File
-`Customer_Churn_Analysis.pbix`
 
